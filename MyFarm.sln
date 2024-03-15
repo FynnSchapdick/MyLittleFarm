@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{0982917D-788C-4026-AC59-2E313E35300F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "clients", "clients", "{96972E5E-975C-41C3-8537-E55F317F80E1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "servers", "servers", "{AC7B0A76-91BD-4FDD-B6AC-5FA42D766EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFarmApp", "src\clients\MyFarmApp\MyFarmApp.csproj", "{60C8766E-D20D-423F-A707-599A60395EB1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{60C8766E-D20D-423F-A707-599A60395EB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C8766E-D20D-423F-A707-599A60395EB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C8766E-D20D-423F-A707-599A60395EB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C8766E-D20D-423F-A707-599A60395EB1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{96972E5E-975C-41C3-8537-E55F317F80E1} = {0982917D-788C-4026-AC59-2E313E35300F}
+		{AC7B0A76-91BD-4FDD-B6AC-5FA42D766EC5} = {0982917D-788C-4026-AC59-2E313E35300F}
+		{60C8766E-D20D-423F-A707-599A60395EB1} = {96972E5E-975C-41C3-8537-E55F317F80E1}
+	EndGlobalSection
+EndGlobal

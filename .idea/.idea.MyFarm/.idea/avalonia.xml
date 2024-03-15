@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AvaloniaProject">
+    <option name="projectPerEditor">
+      <map>
+        <entry key="src/clients/MyFarmApp/App.axaml" value="src/clients/MyFarmApp/MyFarmApp.csproj" />
+        <entry key="src/clients/MyFarmApp/Controls/Gauge.axaml" value="src/clients/MyFarmApp/MyFarmApp.csproj" />
+        <entry key="src/clients/MyFarmApp/Themes/RadialProgressBarStyles.axaml" value="src/clients/MyFarmApp/MyFarmApp.csproj" />
+        <entry key="src/clients/MyFarmApp/Views/MainWindow.axaml" value="src/clients/MyFarmApp/MyFarmApp.csproj" />
+      </map>
+    </option>
+  </component>
+</project>
